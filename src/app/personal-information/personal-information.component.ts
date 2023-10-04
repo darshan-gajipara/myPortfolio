@@ -10,13 +10,13 @@ export class PersonalInformationComponent {
   myData:string[][] = [
     ['Name' , 'Darshan Gajipara'],
     ['Dob' , '26th Feb 2001'],
-    ['Work Exp' , '6 Months'],
+    ['Work Exp' , '1 year'],
     ['Education' , 'B.tech(CSE)'],
     ['interests', 'Cricket']
   ]
   aboutMe: string[] = [
-    'Hi, I am a Software Engineer with 6 months of experience in software industry.',
-    'Worked as Trainee at Natrix Software,Surat',
+    'Hi, I am a Software Engineer with 1 year of experience in software industry.',
+    'Worked as Jr.software devloper at Natrix Software,Surat',
   ];
 
   constructor(){}
