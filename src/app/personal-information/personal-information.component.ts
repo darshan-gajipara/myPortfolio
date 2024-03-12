@@ -15,7 +15,7 @@ export class PersonalInformationComponent {
     ['interests', 'Cricket']
   ]
   aboutMe: string[] = [
-    'Hi, I am a Software Engineer with 1 year of experience in software industry.',
+    'Hi, I am a Software Engineer with 1.5 year of experience in software industry.',
     'Worked as Jr.software devloper at Natrix Software,Surat',
   ];
 

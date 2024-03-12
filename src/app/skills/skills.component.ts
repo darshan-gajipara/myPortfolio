@@ -11,32 +11,32 @@ export class SkillsComponent {
     {
       name:'Angular',
       level:'Intermidiate',
-      rating:'80'
+      rating:'90'
     },
     {
       name:'HTML,CSS',
       level:'Expert',
-      rating:'85'
+      rating:'95'
     },
     {
       name:'Javascript',
       level:'Expert',
-      rating:'80'
+      rating:'90'
     },
     {
       name:'TypeScript',
       level:'Expert',
-      rating:'70'
+      rating:'90'
     },
     {
       name:'JQuery',
       level:'Expert',
-      rating:'70'
+      rating:'85'
     },
     {
       name:'Node JS',
       level:'Average',
-      rating:'60'
+      rating:'65'
     },
     {
       name:'C',
