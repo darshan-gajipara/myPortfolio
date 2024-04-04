@@ -10,7 +10,7 @@ export class SkillsComponent {
   skills:any[] = [
     {
       name:'Angular',
-      level:'Intermidiate',
+      level:'Expert',
       rating:'95'
     },
     {
