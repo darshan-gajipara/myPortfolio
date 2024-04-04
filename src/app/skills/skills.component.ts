@@ -11,7 +11,7 @@ export class SkillsComponent {
     {
       name:'Angular',
       level:'Intermidiate',
-      rating:'90'
+      rating:'95'
     },
     {
       name:'HTML,CSS',
